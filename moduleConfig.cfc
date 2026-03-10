@@ -2,8 +2,8 @@ component {
 
 	function configure(){
 
-		binder.map("ortusLogo")
-			.to("#moduleMapping#.helpers.logoHelper");
+		binder.map("obaLogos")
+			.to("#moduleMapping#.helpers.obaLogos");
 
 	}
 
