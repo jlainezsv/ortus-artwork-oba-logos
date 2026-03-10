@@ -1,0 +1,9 @@
+{
+  "name": "ortus-branding-assets",
+  "slug": "ortus-branding-assets",
+  "version": "0.1.0",
+  "type": "modules",
+  "author": "Ortus Solutions",
+  "location": "modules",
+  "description": "Ortus product logos module for ColdBox and ContentBox"
+}
