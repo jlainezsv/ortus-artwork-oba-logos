@@ -1,4 +1,4 @@
-class Logos {
+class productLogo {
 
     /**
      * Render a logo dynamically based on naming convention
