@@ -1,0 +1,11 @@
+{
+  "name": "oba-logos",
+  "slug": "oba-logos",
+  "version": "1.0.0",
+  "type": "boxlang-module",
+  "main": "src/oba/Logos.bx",
+  "description": "Ortus Branding Assets module rewritten for BoxLang",
+  "authors": [
+    "Jonathan Laínez"
+  ]
+}

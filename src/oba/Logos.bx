@@ -1,0 +1,19 @@
+class Logos {
+
+    /**
+     * Render a logo dynamically based on naming convention
+     */
+    function render( product, type="logo", variant="full", tone="light", size="M" ) {
+
+        // Build filename
+        fileName = "#product#-#type#-#variant#-#tone#-#size#.svg";
+
+        // Build path relative to module root
+        filePath = "modules/oba-logos/#product#/SVG/#fileName#";
+
+        // Read SVG
+        svg = fileRead( filePath );
+
+        return svg;
+    }
+}
